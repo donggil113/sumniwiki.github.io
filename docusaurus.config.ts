@@ -129,7 +129,7 @@ const config: Config = {
               to: '/docs/category/founder',
             },
             {
-              label: '복음의 역사',
+              label: '복음 역사',
               to: '/docs/category/the-movement',
             },
             {
